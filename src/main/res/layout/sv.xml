@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/sv">
+
+    <ScrollView
+        android:id="@+id/sv1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       >
+
+        <TextView
+            android:id="@+id/scrolltext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="sViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it.ViewModel replaces the Presenter in the Middle Layer.
+The Presenter holds references to the View. The ViewModel doesn’t.
+The Presenter updates the View using the classical way (triggering methods).
+The ViewModel sends data streams.
+The Presenter and View are in a 1 to 1 relationship.
+The View and the ViewModel are in a 1 to many relationship.
+The ViewModel does not know that the View is listening to it."/>
+    </ScrollView>
+
+</LinearLayout>
